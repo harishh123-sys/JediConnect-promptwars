@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE junk
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Dependency lock files (optional if you want clean installs)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
